@@ -6,7 +6,7 @@ The repository contains the best versions of my solutions to LeetCode problems
 
 ## Author
 
-- [Kyrylo-Ktl](https://leetcode.com/Kyrylo-Ktl) on LeetCode
+- [TanTranHuyen]([https://leetcode.com/u/311tht/]) on LeetCode
 
 ## Complexity chart
 
